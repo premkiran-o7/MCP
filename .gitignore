@@ -1,0 +1,7 @@
+.env
+server/__pycache__
+.venv
+api_test/__pycache__
+server/test.json
+server/servers.json
+server/config.json
